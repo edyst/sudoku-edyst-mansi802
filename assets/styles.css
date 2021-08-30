@@ -69,6 +69,10 @@ p.selected {
   background-color: lightblue;
 }
 
+p:hover{
+  background-color: lightblue;
+}
+
 p.incorrect {
   color: red;
 }
